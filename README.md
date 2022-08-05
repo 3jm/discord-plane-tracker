@@ -11,7 +11,7 @@
   <hr />
   <p>Current status of the project</p>
   
-  ```🔴 Non-functional```
+  ```🟢 Working```
   
   <br />
   <p>Developers / Contributors</p>
